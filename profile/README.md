@@ -29,6 +29,6 @@ Is an Intune Remediation Script package that can assist in migrating to the new 
 
 * [Stale User Profile Remover](https://github.com/KopterBuzz/SCCM_Intune_PowerShell/tree/main/StaleUserProfileRemover) is my preferred method to clean up aged user profiles from Windows Systems. It works in scenarios where security scanning that fiddles with ntuser.dat files prevents the traditional "Delete User Profiles Older Than $x Days" GPO from functioning. Instead it uses profile load time information available in the Registry. It also prevents unwanted/accidental profile deletions by automatically excluding pre-defined profiles and the currently logged on user, just to be extra sure. The script can be installed as a scheduled task using the provided installation script.
 
-## Modding Projects
+## Video Game Modding
 
 * [NOBlackBox](https://github.com/KopterBuzz/NOBlackBox) is a [TacView](https://www.tacview.net/) Recording utility for the multiplayer air combat game [Nuclear Option.](https://store.steampowered.com/app/2168680/Nuclear_Option/) The mod allows players and server owners to record their game session for later tactical analysis/debrief using the TacView application.
