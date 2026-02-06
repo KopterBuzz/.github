@@ -15,6 +15,9 @@ NOMNOM can also register mod dependencies, incompatibilities, and add-ons to oth
 
 NOBlackBox is a [Tacview](https://www.tacview.net/) Recording utility for the multiplayer air combat game [Nuclear Option.](https://store.steampowered.com/app/2168680/Nuclear_Option/) The mod allows players and server owners to record their game session for later tactical analysis/debrief using the Tacview application.
 
+* [NOServerDocker](https://github.com/KopterBuzz/NOServerDocker)
+
+Dockerized Nuclear Option Dedicated Server with BepInEx 5, Tacview and ServerControlPanel Integration and broad configurability.
 
 ## PSChromiumExtensionManagement
 
