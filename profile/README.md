@@ -1,6 +1,6 @@
 # KopterBuzz
 
-I am Gabor Nemeth, Endpoint Engineer during 9-5, Hobby Software Developer and general tech enthusiast otherwise.
+I am Gabor Nemeth, Game Developer & Master's Student. ex-Endpoint/MDM Engineer, with ~10 years of experience in large Enterprise IT.
 
 I use this github org to host some of my projects:
 
